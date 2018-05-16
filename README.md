@@ -1,0 +1,2 @@
+# fcode
+Quick coding.
