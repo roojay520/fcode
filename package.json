@@ -1,0 +1,19 @@
+{
+  "name": "fcode",
+  "version": "1.0.0",
+  "description": "Quick and easy coding.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roojay520/fcode.git"
+  },
+  "author": "roojay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roojay520/fcode/issues"
+  },
+  "homepage": "https://github.com/roojay520/fcode#readme"
+}
